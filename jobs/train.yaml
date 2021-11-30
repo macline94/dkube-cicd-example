@@ -15,7 +15,7 @@ parameters:
     datums:
       workspace:
         data:
-          name: 'ocdkube:tf-example-0251285494'
+          name: 'ocdkube:tf-example-0251285495'
           version: ''
         script: python mnist/train.py
       datasets:
