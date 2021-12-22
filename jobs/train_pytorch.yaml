@@ -8,10 +8,10 @@ parameters:
       buildfromproject: false
       dkube:
         framework:
-          choice: tensorflow
+          choice: pytorch
           details:
-            version: 2.0.0
-            image: 'ocdr/dkube-datascience-tf-cpu:v2.0.0-6'
+            version: 1.9
+            image: 'ocdr/d3-datascience-pytorch-cpu:v1.9-10'
     datums:
       workspace:
         data:
