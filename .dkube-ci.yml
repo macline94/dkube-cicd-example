@@ -1,5 +1,5 @@
 jobs:
   path: jobs
   jobs:
-    - name: train.yaml
+    - name: train_pytorch.yaml
       run: true
